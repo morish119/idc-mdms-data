@@ -28879,6 +28879,24 @@
 			"actionid": 2558,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2548,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2549,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "MEMBER_SECRETARY",
+			"actionid": 2550,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
