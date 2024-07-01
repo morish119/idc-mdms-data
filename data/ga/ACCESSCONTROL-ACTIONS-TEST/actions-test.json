@@ -22084,7 +22084,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 60,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/sublease"
 		},
 		{
 			"id": 2517,
