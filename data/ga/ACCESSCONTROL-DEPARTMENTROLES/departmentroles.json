@@ -67,6 +67,10 @@
 			"rolecode": "BPA_OC_APPROVER"
 		},
 		{
+			"departmentcode": "ENGS",
+			"rolecode": "GM_ENGINEERING"
+		},
+		{
 			"departmentcode": "ESTD",
 			"rolecode": "ESTD_VERIFIER_L1"
 		},
