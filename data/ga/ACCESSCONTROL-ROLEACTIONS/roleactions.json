@@ -27069,6 +27069,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "TRANSFEREE",
+			"actionid": 2472,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "LESSEE",
 			"actionid": 2514,
 			"actioncode": "",
