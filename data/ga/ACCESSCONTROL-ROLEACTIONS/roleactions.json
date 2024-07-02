@@ -28323,6 +28323,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2644,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2645,
 			"actioncode": "",
