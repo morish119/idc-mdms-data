@@ -43,8 +43,8 @@
 			"moduleCode": "LGLS",
 			"businessServiceCode": "LEGAL_DEED",
 			"businessServiceName": "Legal Deed",
-			"navUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/lease-deed/workflow?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/indenture/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/indenture/workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
