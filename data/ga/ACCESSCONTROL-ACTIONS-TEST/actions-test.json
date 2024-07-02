@@ -24470,11 +24470,11 @@
 		{
 			"id": 2688,
 			"url": "menu",
-			"displayName": "REGISTER_LEASE_DEED",
+			"displayName": "REGISTER_INDENTURE",
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 31,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/register-lease-deed"
+			"navigationURL": "/goa-idc/estate/register-indenture"
 		},
 		{
 			"id": 2689,
