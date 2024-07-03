@@ -24566,6 +24566,17 @@
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
+		},
+		{
+			"id": 2696,
+			"name": "SubleaseSearchAPI",
+			"url": "/idc-estate-service/sub-lease-details/_search",
+			"displayName": "SubleaseSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SubleaseSearchAPI"
 		}
 	]
 }
