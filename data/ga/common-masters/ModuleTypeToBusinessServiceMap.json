@@ -97,8 +97,8 @@
 			"moduleCode": "ESTD",
 			"businessServiceCode": "EST_SPECIAL_TRANSFER",
 			"businessServiceName": "Plot Special Transfer",
-			"navUrl": "/goa-idc/estate/transfer/workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/transferee?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/transfer/workflow?isSpecialTransfer=true&applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/transferee?isSpecialTransfer=true&applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
