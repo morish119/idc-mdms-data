@@ -75,6 +75,10 @@
 			"rolecode": "GM_ENGINEERING"
 		},
 		{
+			"departmentcode": "ENGS",
+			"rolecode": "AREA_MANAGER"
+		},
+		{
 			"departmentcode": "ESTD",
 			"rolecode": "ESTD_VERIFIER_L1"
 		},
