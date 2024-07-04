@@ -27975,13 +27975,13 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2606,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2607,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28011,7 +28011,7 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ALLOTTEE",
+			"rolecode": "ENTERPRISE",
 			"actionid": 2609,
 			"actioncode": "",
 			"tenantId": "ga"
