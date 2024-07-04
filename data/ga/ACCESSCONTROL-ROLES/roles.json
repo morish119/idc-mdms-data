@@ -176,6 +176,11 @@
 			"code": "GM_ENGINEERING",
 			"name": "General Manager Engineering",
 			"description": "CL and OC Approver"
+		},
+		{
+			"code": "AREA_MANAGER",
+			"name": "Area Manager",
+			"description": "Area Manager"
 		}
 	]
 }
