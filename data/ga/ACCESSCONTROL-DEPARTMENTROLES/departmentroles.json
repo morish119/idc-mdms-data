@@ -85,6 +85,10 @@
 		{
 			"departmentcode": "IT",
 			"rolecode": "IT_MANAGER"
+		},
+		{
+			"departmentcode": "ENGS",
+			"rolecode": "DY_GM_Engineering"
 		}
 	]
 }
