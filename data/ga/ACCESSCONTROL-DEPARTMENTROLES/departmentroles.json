@@ -99,7 +99,7 @@
 			"rolecode": "IT_MANAGER"
 		},
 		{
-			"departmentcode": "ENGS",
+			"departmentcode":  "ENGS",
 			"rolecode": "DY_GM_Engineering"
 		}
 	]
