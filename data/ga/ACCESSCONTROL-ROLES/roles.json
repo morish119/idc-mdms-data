@@ -178,9 +178,9 @@
 			"description": "CL and OC Approver"
 		},
 		{
-			"code": "DY_GM_Engineering",
-			"name": "Deputy General Manager Engineering",
-			"description": "OC Reviewer"
+			"code": "AREA_MANAGER",
+			"name": "Area Manager",
+			"description": "Area Manager"
 		}
 	]
 }
