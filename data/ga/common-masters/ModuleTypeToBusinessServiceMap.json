@@ -181,6 +181,15 @@
 			"navUrl": "/goa-idc/estate/extensionworkflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/extension?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WF_BPA_OC",
+			"businessServiceName": "Occupancy Certificate",
+			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
