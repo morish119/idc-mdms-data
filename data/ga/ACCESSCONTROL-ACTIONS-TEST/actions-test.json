@@ -23942,14 +23942,14 @@
 		},
 		{
 			"id": 2638,
-			"name": "EstateDocumentSearch",
-			"url": "/idc-estate-service/estate/documents/_search",
-			"displayName": "Estate Document Search",
+			"name": "CommonMasterDocumentSearch",
+			"url": "/egov-common-masters/documents/_search",
+			"displayName": "CommonMasterDocumentSearch",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateDocumentSearch"
+			"path": "Administration.CommonMasterDocumentSearch"
 		},
 		{
 			"id": 2639,
@@ -24436,25 +24436,25 @@
 		},
 		{
 			"id": 2685,
-			"name": "EstateWfCorrespondeDocDownloadAPI",
-			"url": "/idc-estate-service/estate/correspondence-doc/_generate",
-			"displayName": "EstateWfCorrespondeDocDownloadAPI",
+			"name": "CommonMasterCorrespondeDocDownloadAPI",
+			"url": "/egov-common-masters/documents/correspondence-doc/_generate",
+			"displayName": "CommonMasterCorrespondeDocDownloadAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateWfCorrespondeDocDownloadAPI"
+			"path": "Administration.CommonMasterCorrespondeDocDownloadAPI"
 		},
 		{
 			"id": 2686,
-			"name": "EstateNotingDocGenerateAPI",
-			"url": "/idc-estate-service/estate/noting-documents/_generate",
-			"displayName": "EstateNotingDocGenerateAPI",
+			"name": "CommonMasterNotingDocGenerateAPI",
+			"url": "/egov-common-masters/documents/noting-documents/_generate",
+			"displayName": "CommonMasterNotingDocGenerateAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateNotingDocGenerateAPI"
+			"path": "Administration.CommonMasterNotingDocGenerateAPI"
 		},
 		{
 			"id": 2687,
