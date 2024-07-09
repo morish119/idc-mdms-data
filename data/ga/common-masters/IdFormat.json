@@ -151,51 +151,51 @@
 			"idname": "idc.estate-application.timeline.allotment.extension.applicationNumber"
 		},
 		{
-			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
 		{
-			"format": "GIDC/MORTGAGE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/MORTGAGE/[cy:yyyy]/[SEQ_IDC_ESTD_MORTGAGE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.mortgage.allotmentId"
 		},
 		{
-			"format": "GIDC/MISC/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/MISC/[cy:yyyy]/[SEQ_IDC_ESTD_MISC_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.miscellaneous.allotmentId"
 		},
 		{
-			"format": "GIDC/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SUB LEASE/[cy:yyyy]/[SEQ_IDC_ESTD_SUB_LEASE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.sub-lease.allotmentId"
 		},
 		{
-			"format": "GIDC/EXTENSION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_EXTENSION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.extension.allotmentId"
 		},
 		{
-			"format": "GIDC/SURRENDER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SURRENDER/[cy:yyyy]/[SEQ_IDC_ESTD_SURRENDER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.surrender.allotmentId"
 		},
 		{
-			"format": "GIDC/TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_TRANSFER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.transfer.allotmentId"
 		},
 		{
-			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/SPL TRANSFER/[cy:yyyy]/[SEQ_IDC_ESTD_SPCL_TRANSFER_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.special-transfer.allotmentId"
 		},
 		{
-			"format": "GIDC/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/TL EXTENSION/[cy:yyyy]/[SEQ_IDC_ESTD_TIMELINE_EXTENSION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.timeline-extension.allotmentId"
 		},
 		{
-			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/CANCELLATION/[cy:yyyy]/[SEQ_IDC_ESTD_CANCELLATION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.cancellation.allotmentId"
 		},
 		{
-			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/REJECTION/[cy:yyyy]/[SEQ_IDC_ESTD_REJECTION_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.rejection.allotmentId"
 		},
 		{
-			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ALLOTMENT_NUMBER]",
+			"format": "GIDC/NOTICE/[cy:yyyy]/[SEQ_IDC_ESTD_NOTICE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.default-notice.allotmentId"
 		}
 	]
