@@ -24577,6 +24577,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SubleaseSearchAPI"
+		},
+		{
+			"id": 2697,
+			"name": "SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI",
+			"url": "/idc-estate-service/scheduled-payment-details/_searchUnpaidFeeDetails",
+			"displayName": "SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI"
 		}
 	]
 }
