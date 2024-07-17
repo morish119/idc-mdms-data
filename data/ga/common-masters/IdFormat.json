@@ -35,19 +35,19 @@
 			"idname": "enterprise.entity.registrationnumber"
 		},
 		{
-			"format": "ENGS/OBPAS/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
+			"format": "ENGG/OBPAS/TC/[cy:yyyy]/[SEQ_EG_BP_TC_APN]",
 			"idname": "bpa.tc.aplnumber"
 		},
 		{
-			"format": "ENGS/OBPAS/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
+			"format": "ENGG/OBPAS/CL/[cy:yyyy]/[SEQ_EG_BP_CL_APN]",
 			"idname": "bpa.cl.aplnumber"
 		},
 		{
-			"format": "ENGS/OBPAS/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
+			"format": "ENGG/OBPAS/OC/[cy:yyyy]/[SEQ_EG_BP_OC_APN]",
 			"idname": "bpa.oc.aplnumber"
 		},
 		{
-			"format": "ENGS/OBPAS/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
+			"format": "ENGG/OBPAS/CO/[cy:yyyy]/[SEQ_EG_BP_CO_APN]",
 			"idname": "bpa.co.aplnumber"
 		},
 		{
