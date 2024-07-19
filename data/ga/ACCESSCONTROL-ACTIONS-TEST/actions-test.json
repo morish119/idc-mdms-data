@@ -24588,6 +24588,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI"
+		},
+		{
+			"id": 2698,
+			"name": "TalukaSearchAPI",
+			"url": "/idc-estate-service/estate-master-details/taluka/_search",
+			"displayName": "TalukaSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.TalukaSearchAPI"
 		}
 	]
 }

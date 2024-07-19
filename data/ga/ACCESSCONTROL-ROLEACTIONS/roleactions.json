@@ -28975,6 +28975,18 @@
 			"actionid": 2697,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2698,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2698,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
