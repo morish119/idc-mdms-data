@@ -24591,14 +24591,25 @@
 		},
 		{
 			"id": 2698,
-			"name": "TalukaSearchAPI",
-			"url": "/idc-estate-service/estate-master-details/taluka/_search",
-			"displayName": "TalukaSearchAPI",
+			"name": "EstateMasterApplicationCreate",
+			"url": "/idc-estate-service/master-application/_create",
+			"displayName": "Estate Master Application Create",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.TalukaSearchAPI"
+			"path": "Administration.EstateMasterApplicationCreate"
+		},
+		{
+			"id": 2699,
+			"name": "EstateMasterApplicationSearch",
+			"url": "/idc-estate-service/master-application/_search",
+			"displayName": "Estate Master Application Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMasterApplicationSearch"
 		}
 	]
 }
