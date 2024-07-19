@@ -24588,6 +24588,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.SchedulePaymentDetailsSearchUnpaidFeeDetailsAPI"
+		},
+		{
+			"id": 2698,
+			"name": "EstateMasterApplicationCreate",
+			"url": "/idc-estate-service/master-application/_create",
+			"displayName": "Estate Master Application Create",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMasterApplicationCreate"
+		},
+		{
+			"id": 2699,
+			"name": "EstateMasterApplicationSearch",
+			"url": "/idc-estate-service/master-application/_search",
+			"displayName": "Estate Master Application Search",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMasterApplicationSearch"
 		}
 	]
 }

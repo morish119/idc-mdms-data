@@ -28975,6 +28975,24 @@
 			"actionid": 2697,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"actionid": 2698,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"actionid": 2699,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ESTD_VERIFIER_L2",
+			"actionid": 2699,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
