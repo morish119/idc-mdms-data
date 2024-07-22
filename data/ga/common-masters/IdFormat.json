@@ -115,6 +115,10 @@
 			"idname": "idc.estate-application.timeline.allotment.extension.applicationNumber"
 		},
 		{
+			"format": "ESTATE/MASTER/[cy:yyyy]/[SEQ_IDC_ESTD_EST_PLOT_MASTER_APPLICATION_NUMBER]",
+			"idname": "idc.estate-application.plot-estate.master.applicationNumber"
+		},
+		{
 			"format": "ESTATE/ALLOTMENT/[cy:yyyy]/[SEQ_IDC_ESTD_ALLOTMENT_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.allotment.allotmentId"
 		},
