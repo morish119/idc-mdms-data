@@ -28651,39 +28651,15 @@
 			"actionid": 2674,
 			"actioncode": "",
 			"tenantId": "ga"
-		},
+		}
 		{
-			"rolecode": "ESTD_VERIFIER_L1",
+			"rolecode": "IT_MANAGER",
 			"actionid": 2675,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "ESTD_VERIFIER_L1",
-			"actionid": 2676,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ESTD_VERIFIER_L2",
-			"actionid": 2675,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ESTD_VERIFIER_L2",
-			"actionid": 2676,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ESTD_VERIFIER_L3",
-			"actionid": 2675,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ESTD_VERIFIER_L3",
+			"rolecode": "IT_MANAGER",
 			"actionid": 2676,
 			"actioncode": "",
 			"tenantId": "ga"
