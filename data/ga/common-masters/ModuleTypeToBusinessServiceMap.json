@@ -199,6 +199,24 @@
 			"navUrl": "/goa-idc/estate/register-indenture/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/register-indenture?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "ESTD_MASTER",
+			"businessServiceName": "Estate Master",
+			"navUrl": "/goa-idc/estate/estate-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/estate-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "PLOT_MASTER",
+			"businessServiceName": "Plot Master",
+			"navUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/plot-registry-workflow?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }

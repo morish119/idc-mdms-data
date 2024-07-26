@@ -29005,6 +29005,24 @@
 			"actionid": 2701,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"actionid": 2628,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"actionid": 2629,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "IT_MANAGER",
+			"actionid": 2630,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
