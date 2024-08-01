@@ -24675,6 +24675,28 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateValidActionForApplyAPI"
+		},
+		{
+			"id": 2706,
+			"name": "SearchConnectionFeeMasterAPI",
+			"url": "/ws-services/water-master/_search-connection-fee",
+			"displayName": "SearchConnectionFeeMasterAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchConnectionFeeMasterAPI"
+		},
+		{
+			"id": 2707,
+			"name": "CreateWaterApplicationAPI",
+			"url": "/ws-services/wc/_create-application",
+			"displayName": "CreateWaterApplicationAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CreateWaterApplicationAPI"
 		}
 	]
 }
