@@ -6,11 +6,13 @@
 			"code": "Industrial",
 			"name": "Industrial",
 			"active": true
-		},{
+		},
+		{
 			"code": "Commercial",
 			"name": "Commercial",
 			"active": true
-		},{
+		},
+		{
 			"code": "Utilities",
 			"name": "Utilities",
 			"active": true
