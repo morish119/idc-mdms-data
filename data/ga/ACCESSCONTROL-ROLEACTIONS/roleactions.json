@@ -29521,6 +29521,12 @@
 			"actionid": 2748,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ARCHITECT",
+			"actionid": 2734,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
