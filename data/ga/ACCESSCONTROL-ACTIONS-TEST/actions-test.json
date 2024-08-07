@@ -24999,6 +24999,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateMortgageSearchAPI"
+		},
+		{
+			"id": 2752,
+			"name": "BPA-GenerateDemand",
+			"url": "/bpa-services/v2/bpa/_generateDemand",
+			"displayName": "GenerateDemand",
+			"orderNumber": 0,
+			"enabled": false,
+			"serviceCode": "BPA",
+			"code": "null",
+			"path": ""
 		}
 	]
 }
