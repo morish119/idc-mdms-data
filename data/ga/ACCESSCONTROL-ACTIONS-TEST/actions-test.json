@@ -112,8 +112,7 @@
 					2534,
 					2530,
 					2532,
-					2531,
-					2621
+					2531
 				],
 				[
 					2536,
@@ -131,6 +130,10 @@
 				[
 					2524,
 					2701
+				],
+				[
+					2536,
+					2621
 				]
 			]
 		},
@@ -416,6 +419,15 @@
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/usermanagement/architectCreation"
+		},
+		{
+			"id": 2525,
+			"url": "menu",
+			"displayName": "OTHERS",
+			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU_HEADER",
+			"orderNumber": 10,
+			"enabled": true,
+			"navigationURL": ""
 		},
 		{
 			"id": 2621,
