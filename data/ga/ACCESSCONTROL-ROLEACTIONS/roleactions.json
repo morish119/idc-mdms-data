@@ -27124,19 +27124,31 @@
 		},
 		{
 			"rolecode": "LESSEE",
+			"actionid": 2648,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
 			"actionid": 2475,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
-			"actionid": 2520,
+			"actionid": 2647,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
 			"rolecode": "LESSEE",
 			"actionid": 2519,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "LESSEE",
+			"actionid": 2481,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
@@ -28348,18 +28360,6 @@
 		},
 		{
 			"rolecode": "ENTERPRISE",
-			"actionid": 2647,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
-			"actionid": 2648,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
-			"rolecode": "ENTERPRISE",
 			"actionid": 2649,
 			"actioncode": "",
 			"tenantId": "ga"
@@ -28815,12 +28815,6 @@
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "LESSEE",
-			"actionid": 2688,
-			"actioncode": "",
-			"tenantId": "ga"
-		},
-		{
 			"rolecode": "ENTERPRISE",
 			"actionid": 2689,
 			"actioncode": "",
@@ -28995,6 +28989,18 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2524,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "AREA_MANAGER",
+			"actionid": 2524,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "IT_MANAGER",
 			"actionid": 2628,
 			"actioncode": "",
@@ -29009,6 +29015,12 @@
 		{
 			"rolecode": "IT_MANAGER",
 			"actionid": 2630,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2470,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
