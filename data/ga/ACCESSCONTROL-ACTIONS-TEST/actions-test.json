@@ -25002,6 +25002,17 @@
 		},
 		{
 			"id": 2752,
+			"name": "BPA-GenerateDemand",
+			"url": "/bpa-services/v2/bpa/_generateDemand",
+			"displayName": "GenerateDemand",
+			"orderNumber": 0,
+			"enabled": false,
+			"serviceCode": "BPA",
+			"code": "null",
+			"path": ""
+		},
+		{
+			"id": 2753,
 			"name": "EstateDashboardDocDetailsSearchAPI",
 			"url": "/idc-estate-service/estate-dashboard/doc-details/_search",
 			"displayName": "EstateDashboardDocDetailsSearchAPI",
