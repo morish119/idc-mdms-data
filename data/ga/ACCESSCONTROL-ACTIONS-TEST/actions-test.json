@@ -132,7 +132,7 @@
 					2701
 				],
 				[
-					2536,
+					2525,
 					2621
 				]
 			]
@@ -434,7 +434,7 @@
 			"url": "menu",
 			"displayName": "ESTATE_DATA_MIGRATION",
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
-			"orderNumber": 50,
+			"orderNumber": 20,
 			"enabled": true,
 			"navigationURL": "/goa-idc/migration/migrationform"
 		},
