@@ -24966,6 +24966,39 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.UpdateWaterApplicationAPI"
+		},
+		{
+			"id": 2749,
+			"name": "EstateMortgageCreateAPI",
+			"url": "/idc-estate-service/mortgage-details/_create",
+			"displayName": "EstateMortgageCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMortgageCreateAPI"
+		},
+		{
+			"id": 2750,
+			"name": "EstateMortgageUpdateAPI",
+			"url": "/idc-estate-service/mortgage-details/_update",
+			"displayName": "EstateMortgageUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMortgageUpdateAPI"
+		},
+		{
+			"id": 2751,
+			"name": "EstateMortgageSearchAPI",
+			"url": "/idc-estate-service/mortgage-details/_search",
+			"displayName": "EstateMortgageSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateMortgageSearchAPI"
 		}
 	]
 }
