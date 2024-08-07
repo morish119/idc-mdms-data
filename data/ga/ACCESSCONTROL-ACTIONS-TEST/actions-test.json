@@ -25010,6 +25010,17 @@
 			"serviceCode": "BPA",
 			"code": "null",
 			"path": ""
+		},
+		{
+			"id": 2753,
+			"name": "EstateDashboardDocDetailsSearchAPI",
+			"url": "/idc-estate-service/estate-dashboard/doc-details/_search",
+			"displayName": "EstateDashboardDocDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateDashboardDocDetailsSearchAPI"
 		}
 	]
 }
