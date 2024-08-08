@@ -24767,7 +24767,7 @@
 		{
 			"id": 2616,
 			"name": "BpaGenerateCert",
-			"url": "/_generateCertificate",
+			"url": "/_generateCertificate?applicationNo",
 			"displayName": "BpaGenerateCert",
 			"orderNumber": 1,
 			"enabled": true,
