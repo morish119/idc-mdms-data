@@ -355,7 +355,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 40,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/waterconnection"
+			"navigationURL": "/goa-idc/water-connection"
 		},
 		{
 			"id": 2479,
