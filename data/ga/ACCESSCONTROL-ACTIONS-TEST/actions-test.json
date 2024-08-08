@@ -24763,6 +24763,17 @@
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
+		},
+		{
+			"id": 2755,
+			"name": "BpaGenerateCert",
+			"url": "/bpa-services/v2/bpa/_generateCertificate",
+			"displayName": "BpaGenerateCert",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BpaGenerateCert"
 		}
 	]
 }
