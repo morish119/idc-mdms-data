@@ -24765,9 +24765,9 @@
 			"textColor": "#399267"
 		},
 		{
-			"id": 2616,
+			"id": 2755,
 			"name": "BpaGenerateCert",
-			"url": "/bpa-services/v2/bpa/_generateCertificategit ",
+			"url": "/bpa-services/v2/bpa/_generateCertificate",
 			"displayName": "BpaGenerateCert",
 			"orderNumber": 1,
 			"enabled": true,
