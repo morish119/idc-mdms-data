@@ -23035,7 +23035,7 @@
 			"path": "LEGAL.legal_inbox",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23049,7 +23049,7 @@
 			"path": "LEGAL.legal_nearing_slas",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23063,7 +23063,7 @@
 			"path": "LEGAL.legal_worklist_option_inbox",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23077,7 +23077,7 @@
 			"path": "LEGAL.legal_search_applications",
 			"moduleName": "Legal",
 			"enabled": true,
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#E3EDE0",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23149,7 +23149,7 @@
 			"path": "ADMINISTRATION.admin_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23163,7 +23163,7 @@
 			"path": "ADMINISTRATION.admin_nearing_slas",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23177,7 +23177,7 @@
 			"path": "ADMINISTRATION.admin_worklist_option_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23191,7 +23191,7 @@
 			"path": "ADMINISTRATION.admin_search_applications",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#E3F0CF",
+			"backgroundColor": "#E0EDE8",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
