@@ -220,7 +220,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/apply-for-plot"
+			"navigationURL": "/goa-idc/apply-plot"
 		},
 		{
 			"id": 2514,
@@ -400,7 +400,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/usermanagement/employeecreation"
+			"navigationURL": "/goa-idc/user-management"
 		},
 		{
 			"id": 2532,
@@ -535,7 +535,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/estate/waterconnection"
+			"navigationURL": "/goa-idc/water-connection"
 		},
 		{
 			"id": 2511,
