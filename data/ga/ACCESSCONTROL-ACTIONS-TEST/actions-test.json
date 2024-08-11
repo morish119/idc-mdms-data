@@ -22699,7 +22699,7 @@
 			"path": "ADMINISTRATION.admin_total_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22714,7 +22714,7 @@
 			"path": "ADMINISTRATION.admin_pending_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -22729,7 +22729,7 @@
 			"path": "ADMINISTRATION.admin_approved_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -22744,7 +22744,7 @@
 			"path": "ADMINISTRATION.admin_nearing_slas_applications",
 			"moduleName": "Administration",
 			"navigationURL": "/admin_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -22759,7 +22759,7 @@
 			"path": "OBPAS.obpas_total_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -22774,7 +22774,7 @@
 			"path": "OBPAS.obpas_pending_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -22789,7 +22789,7 @@
 			"path": "OBPAS.obpas_approved_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -22804,7 +22804,7 @@
 			"path": "OBPAS.obpas_nearing_slas_applications",
 			"moduleName": "OBPAS",
 			"navigationURL": "/obpas_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -23449,7 +23449,7 @@
 			"path": "ESTD.estate_total_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -23464,7 +23464,7 @@
 			"path": "ESTD.estate_pending_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -23479,7 +23479,7 @@
 			"path": "ESTD.estate_approved_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -23494,7 +23494,7 @@
 			"path": "ESTD.estate_nearing_slas_applications",
 			"moduleName": "Estate",
 			"navigationURL": "/estate_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -24015,7 +24015,7 @@
 			"path": "ENGINEERING_WATER.Engineering_total_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -24030,7 +24030,7 @@
 			"path": "ENGINEERING_WATER.Engineering_pending_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -24045,7 +24045,7 @@
 			"path": "ENGINEERING_WATER.Engineering_approved_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -24060,7 +24060,7 @@
 			"path": "ENGINEERING_WATER.Engineering_nearing_slas_applications",
 			"moduleName": "Engineering/Water",
 			"navigationURL": "/Engineering_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
@@ -24702,7 +24702,7 @@
 			"path": "LEGAL.legal_total_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_total_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#B7CF53",
 			"iconColor": "#516900",
 			"iconName": "fa-file",
 			"textColor": "#516900"
@@ -24717,7 +24717,7 @@
 			"path": "LEGAL.legal_pending_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_pending_applications",
-			"backgroundColor": "#E7EEC9",
+			"backgroundColor": "#80B036",
 			"iconColor": "#818831",
 			"iconName": "fa-file",
 			"textColor": "#818831"
@@ -24732,7 +24732,7 @@
 			"path": "LEGAL.legal_approved_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_approved_applications",
-			"backgroundColor": "#E3EDE0",
+			"backgroundColor": "#45852E",
 			"iconColor": "#45852E",
 			"iconName": "fa-file",
 			"textColor": "#45852E"
@@ -24747,7 +24747,7 @@
 			"path": "LEGAL.legal_nearing_slas_applications",
 			"moduleName": "Legal",
 			"navigationURL": "/legal_nearing_slas_applications",
-			"backgroundColor": "#E0EDE8",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#399267",
 			"iconName": "fa-file",
 			"textColor": "#399267"
