@@ -283,7 +283,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 100,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/estate/change-in-ownership-name-trade"
 		},
 		{
 			"id": 2472,
