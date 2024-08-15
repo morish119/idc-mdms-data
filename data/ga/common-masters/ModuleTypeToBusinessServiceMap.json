@@ -217,6 +217,15 @@
 			"navUrl": "/goa-idc/estate/mortgage-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/mortgage-workflow?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "EST_CHANGE_IN_OWNERSHIP_INTEREST_NAME_TRADE",
+			"businessServiceName": "Change in Ownership/Name/Trade",
+			"navUrl": "/goa-idc/estate/change-in-ownership-name-trade/workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/change-in-ownership-name-trade?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
