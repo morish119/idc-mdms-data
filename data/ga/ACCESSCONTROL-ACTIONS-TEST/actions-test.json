@@ -24773,6 +24773,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.PGServiceTransactionSearch"
+		},
+		{
+			"id": 2757,
+			"name": "BpaConstructionLicenseRenewal",
+			"url": "/bpa-services/v2/bpa/apply/renewal/constructionLicence",
+			"displayName": "BpaConstructionLicenseRenewal",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BpaConstructionLicenseRenewal"
 		}
 	]
 }
