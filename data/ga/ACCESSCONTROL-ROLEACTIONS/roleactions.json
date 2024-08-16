@@ -29725,6 +29725,12 @@
 			"actionid": 2757,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2757,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
