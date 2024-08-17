@@ -215,7 +215,7 @@
 			"businessServiceCode": "EST_MORTGAGE",
 			"businessServiceName": "Mortgage",
 			"navUrl": "/goa-idc/estate/mortgage-workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/mortgage-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/mortgage?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
