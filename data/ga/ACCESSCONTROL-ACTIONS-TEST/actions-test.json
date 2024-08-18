@@ -24784,6 +24784,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BpaConstructionLicenseRenewal"
+		},
+		{
+			"id": 2758,
+			"name": "SearchUserCertificateAPI",
+			"url": "/ws-services/wc/_search-user-certificate",
+			"displayName": "SearchUserCertificateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchUserCertificateAPI"
 		}
 	]
 }
