@@ -24784,6 +24784,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BpaConstructionLicenseRenewal"
+		},
+		{
+			"id": 2758,
+			"name": "EstateCommercialOperationDetailsAPI",
+			"url": "/idc-estate-service/commercial-ops-details",
+			"displayName": "EstateCommercialOperationDetailsAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsAPI"
 		}
 	]
 }
