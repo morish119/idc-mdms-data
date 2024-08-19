@@ -24787,6 +24787,17 @@
 		},
 		{
 			"id": 2758,
+			"name": "SearchUserCertificateAPI",
+			"url": "/ws-services/wc/_search-user-certificate",
+			"displayName": "SearchUserCertificateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.SearchUserCertificateAPI"
+		},
+		{
+			"id": 2759,
 			"name": "EstateCommercialOperationDetailsAPI",
 			"url": "/idc-estate-service/commercial-ops-details",
 			"displayName": "EstateCommercialOperationDetailsAPI",
