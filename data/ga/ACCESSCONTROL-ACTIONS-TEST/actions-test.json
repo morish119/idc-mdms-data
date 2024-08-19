@@ -24798,14 +24798,36 @@
 		},
 		{
 			"id": 2759,
-			"name": "EstateCommercialOperationDetailsAPI",
-			"url": "/idc-estate-service/commercial-ops-details",
-			"displayName": "EstateCommercialOperationDetailsAPI",
+			"name": "EstateCommercialOperationDetailsSearchAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_search",
+			"displayName": "EstateCommercialOperationDetailsSearchAPI",
 			"orderNumber": 1,
 			"enabled": true,
 			"serviceCode": "ADMIN",
 			"code": "null",
-			"path": "Administration.EstateCommercialOperationDetailsAPI"
+			"path": "Administration.EstateCommercialOperationDetailsSearchAPI"
+		},
+		{
+			"id": 2760,
+			"name": "EstateCommercialOperationDetailsCreateAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_create",
+			"displayName": "EstateCommercialOperationDetailsCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsCreateAPI"
+		},
+		{
+			"id": 2761,
+			"name": "EstateCommercialOperationDetailsUpdateAPI",
+			"url": "/idc-estate-service/commercial-ops-details/_update",
+			"displayName": "EstateCommercialOperationDetailsUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateCommercialOperationDetailsUpdateAPI"
 		}
 	]
 }
