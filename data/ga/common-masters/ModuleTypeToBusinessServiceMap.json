@@ -262,6 +262,15 @@
 			"navUrl": "/goa-idc/estate/show-cause-notice/workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/estate/show-cause-notice?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Engineering/Water",
+			"moduleCode": "ENGINEERING_WATER",
+			"businessServiceCode": "WATER_CONNECTION",
+			"businessServiceName": "Water Connection",
+			"navUrl": "/goa-idc/e/waterconnection?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/waterconnection?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
