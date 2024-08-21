@@ -63,8 +63,12 @@
 			"idname": "hrms.emp.profile.update.registrationnumber"
 		},
 		{
-			"format": "LEGAL/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
+			"format": "LEGAL/DEED/[cy:yyyy]/[SEQ_IDC_LEGAL_DEED_APPLICATION_NUMBER]",
 			"idname": "idc.legal.deed.applicationnumber"
+		},
+		{
+			"format": "LEGAL/FORM-DN/[cy:yyyy]/[SEQ_IDC_LEGAL_FORM_DN_APPLICATION_NUMBER]",
+			"idname": "idc.legal.default-notice.applicationnumber"
 		},
 		{
 			"format": "ESTATE/ADV/[cy:yyyy]/[SEQ_IDC_ADVERTISEMENT_NUMBER]",
@@ -177,6 +181,10 @@
 		{
 			"format": "ESTATE/NOTICE/[cy:yyyy]/[SEQ_IDC_ESTD_NOTICE_ORDER_NUMBER]",
 			"idname": "idc.estate-allotment.default-notice.allotmentId"
+		},
+		{
+			"format": "LEGAL/DEFAULT NOTICE/[cy:yyyy]/[SEQ_IDC_LEGAL_DEFAULT_NOTICE_ORDER_NUMBER]",
+			"idname": "idc.estate-allotment.legal.default-notice.allotmentId"
 		},
 		{
 			"format": "WATER/APPLICATION/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
