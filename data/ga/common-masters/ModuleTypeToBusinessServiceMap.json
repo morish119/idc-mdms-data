@@ -250,8 +250,8 @@
 			"moduleCode": "LGLS",
 			"businessServiceCode": "LEGAL_SYSYTEM_SHOW_CAUSE_NOTICE",
 			"businessServiceName": "Legal Show Cause Notice",
-			"navUrl": "/goa-idc/estate/show-cause-notice/workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/show-cause-notice?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
@@ -259,8 +259,8 @@
 			"moduleCode": "LGLS",
 			"businessServiceCode": "LEGAL_INSPECTION_SHOW_CAUSE_NOTICE",
 			"businessServiceName": "Legal Show Cause Notice",
-			"navUrl": "/goa-idc/estate/show-cause-notice/workflow?applicationNumber=%s&tenantId=%s",
-			"applicationNavUrl": "/goa-idc/estate/show-cause-notice?applicationNumber=%s&tenantId=%s",
+			"navUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/estate/default-notice?applicationNumber=%s&tenantId=%s",
 			"active": true
 		},
 		{
