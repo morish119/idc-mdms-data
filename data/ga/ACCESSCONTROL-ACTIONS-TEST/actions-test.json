@@ -337,7 +337,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/obpas/renewal/constructionLicense"
+			"navigationURL": "/goa-idc/obpas/technicalClearance"
 		},
 		{
 			"id": 2475,
