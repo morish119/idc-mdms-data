@@ -137,7 +137,7 @@
 		{
 			"rolecode": "FM_IPDC",
 			"designationCode": "FM_IPDC",
-			"designationName": "Field Manager (Site)",
+			"designationName": "Field Manager (IPDC)",
 			"active": true
 		}
 	]
