@@ -24828,6 +24828,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateCommercialOperationDetailsUpdateAPI"
+		},
+		{
+			"id": 2762,
+			"name": "BPAServiceFindOcBuildupAreaAPI",
+			"url": "/bpa-services/v2/bpa/findOcBuildupArea",
+			"displayName": "BPAServiceFindOcBuildupAreaAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPAServiceFindOcBuildupAreaAPI"
 		}
 	]
 }
