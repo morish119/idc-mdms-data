@@ -24839,6 +24839,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPAServiceFindOcBuildupAreaAPI"
+		},
+		{
+			"id": 2763,
+			"name": "BPAServiceFindOtherDocumentAPI",
+			"url": "/bpa-services/v2/bpa/findOtherDocument",
+			"displayName": "BPAServiceFindOtherDocumentAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.BPAServiceFindOtherDocumentAPI"
 		}
 	]
 }
