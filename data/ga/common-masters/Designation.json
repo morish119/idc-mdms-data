@@ -77,7 +77,7 @@
 		{
 			"code": "FM_IPDC",
 			"name": "Field Manager (IPDC)",
-			"description": "Field Manager (IPDC)"
+			"description": "Field Manager (IPDC)",
 			"active": true
 		}
 	]
