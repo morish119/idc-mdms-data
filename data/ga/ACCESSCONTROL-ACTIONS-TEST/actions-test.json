@@ -24894,6 +24894,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.CommonMasterWorkflowExecuteAPI"
+		},
+		{
+			"id": 2768,
+			"name": "EstateDashboardOtherDocumentDetailsSearchAPI",
+			"url": "/idc-estate-service/estate-dashboard/other-doc-details/_search",
+			"displayName": "EstateDashboardOtherDocumentDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.EstateDashboardOtherDocumentDetailsSearchAPI"
 		}
 	]
 }
