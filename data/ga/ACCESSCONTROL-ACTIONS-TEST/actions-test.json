@@ -24850,6 +24850,50 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPAServiceFindOtherDocumentAPI"
+		},
+		{
+			"id": 2764,
+			"name": "CommonMasterQueryDetailsCreateAPI",
+			"url": "/egov-common-masters/query-details/_create",
+			"displayName": "CommonMasterQueryDetailsCreateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsCreateAPI"
+		},
+		{
+			"id": 2765,
+			"name": "CommonMasterQueryDetailsUpdateAPI",
+			"url": "/egov-common-masters/query-details/_update",
+			"displayName": "CommonMasterQueryDetailsUpdateAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsUpdateAPI"
+		},
+		{
+			"id": 2766,
+			"name": "CommonMasterQueryDetailsSearchAPI",
+			"url": "/egov-common-masters/query-details/_search",
+			"displayName": "CommonMasterQueryDetailsSearchAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterQueryDetailsSearchAPI"
+		},
+		{
+			"id": 2767,
+			"name": "CommonMasterWorkflowExecuteAPI",
+			"url": "/egov-common-masters/common-workflow/process/_initiate",
+			"displayName": "CommonMasterWorkflowExecuteAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.CommonMasterWorkflowExecuteAPI"
 		}
 	]
 }
