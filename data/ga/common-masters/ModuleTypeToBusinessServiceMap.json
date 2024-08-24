@@ -271,6 +271,33 @@
 			"navUrl": "/goa-idc/e/waterconnection?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/waterconnection?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Administration",
+			"moduleCode": "ADMIN",
+			"businessServiceCode": "ADMIN_QUERY_DETAILS",
+			"businessServiceName": "Admin Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Legal",
+			"moduleCode": "LGLS",
+			"businessServiceCode": "LEGAL_QUERY_DETAILS",
+			"businessServiceName": "Legal Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
+		},
+		{
+			"moduleName": "Estate",
+			"moduleCode": "ESTD",
+			"businessServiceCode": "ESTATE_QUERY_DETAILS",
+			"businessServiceName": "Estate Query Details",
+			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }
