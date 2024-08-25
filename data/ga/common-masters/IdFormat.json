@@ -187,7 +187,7 @@
 			"idname": "idc.estate-allotment.legal.default-notice.allotmentId"
 		},
 		{
-			"format": "WATER/APPLICATION/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
+			"format": "ENGG/WATER/[cy:yyyy]/[SEQ_IDC_WS_APPLICATION_NUMBER]",
 			"idname": "idc.water-connection.applicationNumber"
 		},
 		{
@@ -197,6 +197,10 @@
 		{
 			"format": "QUERY/[cy:yyyy]/[SEQ_IDC_COMMON_QUERY_APPLICATION_NUMBER]",
 			"idname": "idc.common-application-query.applicationNumber"
+		},
+		{
+			"format": "WATER/BILL/[cy:yyyy]/[SEQ_IDC_WS_BILL_NUMBER]",
+			"idname": "idc.water-connection.connectionNumber"
 		}
 	]
 }
