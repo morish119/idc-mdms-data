@@ -298,6 +298,15 @@
 			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
 			"applicationNavUrl": "/goa-idc/query-entry?applicationNumber=%s&tenantId=%s",
 			"active": true
+		},
+		{
+			"moduleName": "Engineering/Water",
+			"moduleCode": "ENGINEERING_WATER",
+			"businessServiceCode": "WF_BPA_CL_RENEWAL",
+			"businessServiceName": "Construction Licence Renewal",
+			"navUrl": "/goa-idc/obpas/renewal/ConstructionLicense?applicationNumber=%s&tenantId=%s",
+			"applicationNavUrl": "/goa-idc/obpas/renewal/ConstructionLicense?applicationNumber=%s&tenantId=%s",
+			"active": true
 		}
 	]
 }

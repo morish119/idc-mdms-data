@@ -101,7 +101,8 @@
 					2476,
 					2648,
 					2475,
-					2521
+					2521,
+					2523
 				],
 				[
 					2479,
@@ -356,6 +357,15 @@
 			"orderNumber": 40,
 			"enabled": true,
 			"navigationURL": "/goa-idc/water-connection"
+		},
+		{
+			"id": 2523,
+			"url": "menu",
+			"displayName": "CONSTRUCTION_LICENCE_RENEWAL",
+			"menuType": "ROLE_BASED_SUB_MENU",
+			"orderNumber": 50,
+			"enabled": true,
+			"navigationURL": "/goa-idc/obpas/renewal/constructionLicence"
 		},
 		{
 			"id": 2479,
