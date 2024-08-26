@@ -383,7 +383,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 20,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/query-entry"
 		},
 		{
 			"id": 2481,
@@ -392,7 +392,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
-			"navigationURL": "/goa-idc/underconstruction"
+			"navigationURL": "/goa-idc/query-entry"
 		},
 		{
 			"id": 2534,

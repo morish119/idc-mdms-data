@@ -27189,13 +27189,19 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2534,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "EMP_CREATOR",
 			"actionid": 2530,
 			"actioncode": "",
 			"tenantId": "ga"
 		},
 		{
-			"rolecode": "EMP_CREATOR",
+			"rolecode": "FIELD_INSPECTOR_SITE",
 			"actionid": 2531,
 			"actioncode": "",
 			"tenantId": "ga"
