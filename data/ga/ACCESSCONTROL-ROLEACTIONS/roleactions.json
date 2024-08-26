@@ -29025,6 +29025,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "LESSEE",
+			"actionid": 2523,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "FIELD_INSPECTOR_SITE",
 			"actionid": 2701,
 			"actioncode": "",
