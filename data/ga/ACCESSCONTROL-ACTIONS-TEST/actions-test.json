@@ -24905,6 +24905,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.EstateDashboardOtherDocumentDetailsSearchAPI"
+		},
+		{
+			"id": 2769,
+			"name": "Validate New Water Application",
+			"url": "/ws-services/wc/_get-validate-application",
+			"displayName": "Validate New Water Application",
+			"orderNumber": 0,
+			"enabled": false,
+			"serviceCode": "ws-services",
+			"code": "null",
+			"path": ""
 		}
 	]
 }
