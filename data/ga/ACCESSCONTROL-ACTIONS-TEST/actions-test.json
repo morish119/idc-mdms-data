@@ -24959,6 +24959,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.MeterReadingSearch"
+		},
+		{
+			"id": 2773,
+			"name": "MeterReadingCalculate",
+			"url": "/ws-services/meter-reading/_calculate",
+			"displayName": "MeterReadingCalculate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.MeterReadingCalculate"
 		}
 	]
 }
