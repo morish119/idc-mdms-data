@@ -16064,7 +16064,7 @@
 			"id": 1899,
 			"name": "Create Water Connection",
 			"url": "/ws-services/wc/_create",
-			"displayName": "Create Water COnnection",
+			"displayName": "Create Water Connection",
 			"orderNumber": 0,
 			"enabled": false,
 			"serviceCode": "ws-services",
@@ -24926,6 +24926,39 @@
 			"serviceCode": "ws-services",
 			"code": "null",
 			"path": ""
+		},
+		{
+			"id": 2770,
+			"name": "MeterReadingCreate",
+			"url": "/ws-services/meter-reading/_create",
+			"displayName": "MeterReadingCreate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.MeterReadingCreate"
+		},
+		{
+			"id": 2771,
+			"name": "MeterReadingUpdate",
+			"url": "/ws-services/meter-reading/_update",
+			"displayName": "MeterReadingUpdate",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.MeterReadingUpdate"
+		},
+		{
+			"id": 2772,
+			"name": "MeterReadingSearch",
+			"url": "/ws-services/meter-reading/_search",
+			"displayName": "MeterReadingSearch",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.MeterReadingSearch"
 		}
 	]
 }
