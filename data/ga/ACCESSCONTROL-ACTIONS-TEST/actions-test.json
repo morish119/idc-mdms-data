@@ -24970,6 +24970,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.MeterReadingCalculate"
+		},
+		{
+			"id": 2774,
+			"name": "WaterDocumentSearch",
+			"url": "/ws-services/water-document/document/_search",
+			"displayName": "WaterDocumentSearch",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.WaterDocumentSearch"
 		}
 	]
 }
