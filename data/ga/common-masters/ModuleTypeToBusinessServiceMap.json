@@ -30,8 +30,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WF_BPA_CL",
 			"businessServiceName": "Construction Licence",
 			"navUrl": "/goa-idc/obpas/constructionLicense?applicationNumber=%s&tenantId=%s",
@@ -39,8 +39,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WF_BPA_OC",
 			"businessServiceName": "Occupancy Certificate",
 			"navUrl": "/goa-idc/obpas/occupancyCertificate?applicationNumber=%s&tenantId=%s",
@@ -264,8 +264,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WATER_CONNECTION",
 			"businessServiceName": "Water Connection",
 			"navUrl": "/goa-idc/e/waterconnection?applicationNumber=%s&tenantId=%s",
@@ -300,8 +300,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "WF_BPA_CL_RENEWAL",
 			"businessServiceName": "Construction Licence Renewal",
 			"navUrl": "/goa-idc/obpas/renewal/ConstructionLicense?applicationNumber=%s&tenantId=%s",
@@ -309,8 +309,8 @@
 			"active": true
 		},
 		{
-			"moduleName": "Engineering/Water",
-			"moduleCode": "ENGINEERING_WATER",
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
 			"businessServiceCode": "ENGG_QUERY_DETAILS",
 			"businessServiceName": "Engineering Query Details",
 			"navUrl": "/goa-idc/query-entry-workflow?applicationNumber=%s&tenantId=%s",
