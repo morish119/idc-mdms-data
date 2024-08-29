@@ -26073,6 +26073,12 @@
 			"tenantId": "ga"
 		},
 		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
+			"actionid": 2406,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 2405,
 			"actioncode": "",
@@ -26278,6 +26284,12 @@
 		},
 		{
 			"rolecode": "EMP_CREATOR",
+			"actionid": 2423,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "FIELD_INSPECTOR_SITE",
 			"actionid": 2423,
 			"actioncode": "",
 			"tenantId": "ga"
