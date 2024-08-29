@@ -273,6 +273,15 @@
 			"active": true
 		},
 		{
+			"moduleName": "Engineering",
+			"moduleCode": "ENGINEERING",
+			"businessServiceCode": "WATER_CONNECTION_BILLING",
+			"businessServiceName": "Water Connection Billing",
+			"navUrl": "",
+			"applicationNavUrl": "",
+			"active": true
+		},
+		{
 			"moduleName": "Administration",
 			"moduleCode": "ADMIN",
 			"businessServiceCode": "ADMIN_QUERY_DETAILS",
