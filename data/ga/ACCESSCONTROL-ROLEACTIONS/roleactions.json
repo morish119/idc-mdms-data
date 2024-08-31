@@ -29947,6 +29947,84 @@
 			"actionid": 2775,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2741,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2712,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2718,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2663,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2664,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2720,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2727,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2731,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2734,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2735,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 2776,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "ENTERPRISE",
+			"actionid": 2776,
+			"actioncode": "",
+			"tenantId": "ga"
+		},
+		{
+			"rolecode": "BPA_ARCHITECT",
+			"actionid": 2776,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
