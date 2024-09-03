@@ -25012,6 +25012,17 @@
 			"serviceCode": "ADMIN",
 			"code": "null",
 			"path": "Administration.BPASearch1Api"
+		},
+		{
+			"id": 2777,
+			"name": "IdcSchedulerServiceExecuteAPI",
+			"url": "/scheduler-services/scheduler/execute",
+			"displayName": "IdcSchedulerServiceExecuteAPI",
+			"orderNumber": 1,
+			"enabled": true,
+			"serviceCode": "ADMIN",
+			"code": "null",
+			"path": "Administration.IdcSchedulerServiceExecuteAPI"
 		}
 	]
 }
