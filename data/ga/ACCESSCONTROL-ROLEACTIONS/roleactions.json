@@ -30031,6 +30031,12 @@
 			"actionid": 2776,
 			"actioncode": "",
 			"tenantId": "ga"
+		},
+		{
+			"rolecode": "INTERNAL_MICROSERVICE_ROLE",
+			"actionid": 2777,
+			"actioncode": "",
+			"tenantId": "ga"
 		}
 	]
 }
