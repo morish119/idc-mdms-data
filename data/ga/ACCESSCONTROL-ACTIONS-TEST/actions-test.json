@@ -457,6 +457,7 @@
 			"menuType": "ROLE_BASED_EMPLOYEE_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
+			"isRoleBasedMenuPublic": true,
 			"navigationURL": "/goa-idc/compliance-dashboard"
 		},
 		{
@@ -25000,6 +25001,7 @@
 			"menuType": "ROLE_BASED_SUB_MENU",
 			"orderNumber": 30,
 			"enabled": true,
+			"isRoleBasedMenuPublic": true,
 			"navigationURL": "/goa-idc/compliance-dashboard"
 		},
 		{
