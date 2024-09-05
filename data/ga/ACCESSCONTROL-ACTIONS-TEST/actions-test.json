@@ -23102,7 +23102,7 @@
 			"path": "ADMINISTRATION.admin_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#323E4A",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23116,7 +23116,7 @@
 			"path": "ADMINISTRATION.admin_nearing_slas",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#323E4A",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23130,7 +23130,7 @@
 			"path": "ADMINISTRATION.admin_worklist_option_inbox",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#323E4A",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23144,7 +23144,7 @@
 			"path": "ADMINISTRATION.admin_search_applications",
 			"moduleName": "Administration",
 			"enabled": true,
-			"backgroundColor": "#323E4A",
+			"backgroundColor": "#45852E",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
@@ -23159,7 +23159,7 @@
 			"path": "ENGINEERING.engineering_inbox",
 			"moduleName": "Engineering",
 			"enabled": true,
-			"backgroundColor": "#45852E",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23173,7 +23173,7 @@
 			"path": "ENGINEERING.engineering_nearing_slas",
 			"moduleName": "Engineering",
 			"enabled": true,
-			"backgroundColor": "#45852E",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist"
@@ -23187,7 +23187,7 @@
 			"path": "ENGINEERING.engineering_worklist_option_inbox",
 			"moduleName": "Engineering",
 			"enabled": true,
-			"backgroundColor": "#45852E",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"code": "worklist_option"
@@ -23201,7 +23201,7 @@
 			"path": "ENGINEERING.engineering_search_applications",
 			"moduleName": "Engineering",
 			"enabled": true,
-			"backgroundColor": "#45852E",
+			"backgroundColor": "#323E4A",
 			"iconColor": "#4C6245",
 			"iconName": "fa-file",
 			"navigationURL": "/goa-idc/usermanagement/searchapplication",
