@@ -1,9 +1,0 @@
-{
-    "tenantId": "ga.goa",
-    "moduleName": "FSM",
-    "zeroPricing": [
-        {
-            "zeroPricingStatus": true
-        }
-    ]
-}

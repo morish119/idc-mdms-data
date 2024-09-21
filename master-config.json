@@ -27,49 +27,76 @@
 			]
 		}
 	},
-	"ASSET": {
-		"AssetCategory": {
-			"masterName": "AssetCategory",
-			"moduleDefinition": null,
-			"isStateLevel": true,
+	"Bussiness": {
+		"ProjectTypologyStatus": {
+			"masterName": "ProjectTypologyStatus",
 			"uniqueKeys": [
-				"$.id",
-				"$.tenantId"
+				"$.code"
 			]
 		},
-		"LayerType": {
-			"masterName": "LayerType",
-			"moduleDefinition": "null",
-			"isStateLevel": true,
+		"ZoneWiseProjectStatus": {
+			"masterName": "ZoneWiseProjectStatus",
 			"uniqueKeys": [
-				"$.name",
-				"$.tenantId"
+				"$.code"
+			]
+		}
+	},
+	"Portfolio": {
+		"ComplitionStage": {
+			"masterName": "ComplitionStage",
+			"uniqueKeys": [
+				"$.code"
 			]
 		},
-		"Assetconfiguration": {
-			"masterName": "Assetconfiguration",
-			"moduleDefinition": "null",
-			"isStateLevel": true,
+		"ProjectCost": {
+			"masterName": "ProjectCost",
 			"uniqueKeys": [
-				"$.keyname",
-				"$.tenantId"
+				"$.code"
 			]
 		},
-		"ModeOfAcquisition": {
-			"masterName": "ModeOfAcquisition",
-			"moduleDefinition": "null",
-			"isStateLevel": true,
+		"ProjectTopology": {
+			"masterName": "ProjectTopology",
 			"uniqueKeys": [
-				"$.code",
-				"$.tenantId"
+				"$.code"
+			] 
+		},
+		"Risklevel": {
+			"masterName": "Risklevel",
+			"uniqueKeys": [
+				"$.tenantid",
+				"$.code"
 			]
 		},
-		"NewTestMaster": {
-			"masterName": "NewMaster",
-			"moduleDefinition": "null",
-			"isStateLevel": true,
+		"Zone": {
+			"masterName": "Zone",
 			"uniqueKeys": [
-				"$.id"
+				"$.code"
+			]
+		},
+		"City": {
+			"masterName": "City",
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
+	},
+	"Project": {
+		"ProjectDetails": {
+			"masterName": "ProjectDetails",
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"quality": {
+			"masterName": "quality",
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"Safety_Comploance": {
+			"masterName": "Safety_Comploance",
+			"uniqueKeys": [
+				"$.code"
 			]
 		}
 	},
@@ -156,25 +183,6 @@
 			"uniqueKeys": [
 				"$.code"
 			]
-		}
-	},
-	"DIGIT-UI": {
-		"ApiCachingSettings": {
-			"masterName": "ApiCachingSettings",
-			"isStateLevel": true,
-			"uniqueKeys": []
-		},
-		"RoleActionMetadata": {
-			"masterName": "RoleActionMetadata",
-			"moduleDefinition": null,
-			"isStateLevel": true,
-			"uniqueKeys": []
-		},
-		"RoleStatusMapping": {
-			"masterName": "RoleStatusMapping",
-			"moduleDefinition": null,
-			"isStateLevel": true,
-			"uniqueKeys": []
 		}
 	},
 	"egf-master": {
@@ -1180,7 +1188,8 @@
 			"uniqueKeys": [
 				"$.code"
 			]
-		},"ReceivedPaymentType": {
+		},
+		"ReceivedPaymentType": {
 			"masterName": "ReceivedPaymentType",
 			"isStateLevel": true,
 			"uniqueKeys": [
@@ -1279,29 +1288,6 @@
 			]
 		}
 	},
-	"Vehicle": {
-		"SuctionType": {
-			"masterName": "SuctionType",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"VehicleMakeModel": {
-			"masterName": "VehicleMakeModel",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"VehicleOwner": {
-			"masterName": "VehicleOwner",
-			"isStateLevel": false,
-			"uniqueKeys": [
-				"$.code"
-			]
-		}
-	},
 	"Vendor": {
 		"AgencyType": {
 			"masterName": "AgencyType",
@@ -1335,28 +1321,28 @@
 		}
 	},
 	"egov-workflow-v2": {
-        "BusinessService": {
-            "isStateLevel": true,
-            "masterName": "BusinessService",
-            "moduleDefinition": null,
-            "uniqueKeys": [
-                "$.code"
-            ]
-        },
-        "BusinessServiceAction": {
-            "isStateLevel": true,
-            "masterName": "BusinessServiceAction",
-            "moduleDefinition": null,
-            "uniqueKeys": [
-                "$.code"
-            ]
-        },
-        "BusinessServiceState": {
-            "isStateLevel": true,
-            "masterName": "BusinessServiceState",
-            "uniqueKeys": [
-                "$.code"
-            ]
-        }
-    }
+		"BusinessService": {
+			"isStateLevel": true,
+			"masterName": "BusinessService",
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"BusinessServiceAction": {
+			"isStateLevel": true,
+			"masterName": "BusinessServiceAction",
+			"moduleDefinition": null,
+			"uniqueKeys": [
+				"$.code"
+			]
+		},
+		"BusinessServiceState": {
+			"isStateLevel": true,
+			"masterName": "BusinessServiceState",
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
+	}
 }
