@@ -1,0 +1,46 @@
+{
+    "tenantId":"cpms.tata",
+    "moduleName":"Project",
+    "ProjectDetails":[
+       {
+          "code":"ProjectLocation",
+          "title":"ProjectLocationrth"
+          
+        },
+        {
+            "code":"Developer",
+            "title":"Developer"
+            
+        },
+        {
+            "code":"MainPackageContractor",
+            "title":"Main Package Contractor"
+            
+        },
+        {
+            "code":"DesignConsultant",
+            "title":"Design Consultant"
+            
+        },
+        {
+            "code":"ProjectManager",
+            "title":"Project Manager"
+            
+        },
+        {
+            "code":"OriginalBudget",
+            "title":"Original Budget"
+            
+        },
+        {
+            "code":"LatestRevisiedBudget",
+            "title":"Latest Revisied Budget"
+            
+        },
+        {
+            "code":"ProjectComplitionDate",
+            "title":" Project Complition Date(Latest BaseLine)"
+            
+        }
+    ]
+}

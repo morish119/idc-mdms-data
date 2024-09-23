@@ -1,0 +1,36 @@
+{
+    "tenantId": "cpms.tata",
+    "moduleName": "Portfolio",
+    "City": [
+        {
+            "code": "Mumbai",
+            "title": "Mumbai",
+            "active": true
+        },
+        {
+            "code": "Bengaluru",
+            "title": "Bengaluru",
+            "active": true
+        },
+        {
+            "code": "Pune",
+            "title": "Pune",
+            "active": true
+        },
+        {
+            "code": "Delhi",
+            "title": "Delhi",
+            "active": true
+        },
+        {
+            "code": "Hyderabad",
+            "title": "Hyderabad",
+            "active": true
+        },
+        {
+            "code": "Kochi",
+            "title": "Kochi",
+            "active": true
+        }
+    ]
+}

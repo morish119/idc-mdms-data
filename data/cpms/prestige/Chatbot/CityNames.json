@@ -1,0 +1,10 @@
+{
+ "tenantId": "cpms.prestige",
+ "moduleName": "Chatbot",
+ "CityNames": [
+   {
+     "locale" :"en",
+     "cities" : ["Goa"]
+   }
+ ]
+}

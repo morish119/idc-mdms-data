@@ -1,0 +1,29 @@
+{
+     "tenantId": "cpms.prestige",
+    "moduleName": "Bussiness",
+    "ZoneWiseProjectStatus": [
+        {
+            "code": "North",
+            "title": "North",
+            "description": "North"
+        },
+        {
+            "code": "South",
+            "title": "South",
+            "description": "South"
+        },
+        {
+            "code": "East",
+            "title": "East",
+            "description": "East"
+        },
+        {
+            "code": "West",
+            "title": "West",
+            "description": "West"
+        }
+
+    ]
+
+    
+}

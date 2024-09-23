@@ -1,0 +1,40 @@
+{
+    "Portfolio": [
+        {
+            "tenantId": "cpms.tata",
+            "moduleName": "Portfolio",
+            "Risklevel": [
+                {
+                    "code": "Pre-Construction&Approval",
+                    "title": "Pre-Construction & Approval",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Construction",
+                    "title": "Construction",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Handover",
+                    "title": "Handover",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+   "tenantId": "cpms.prestige",
+   "moduleName": "Portfolio",
+   "ComplitionStage": [
+      {
+         "code": "All",
+         "title": "All",
+         "active": true
+      },
+      {
+         "code": "Pre-Construction",
+         "title": "Pre-Construction",
+         "active": true
+      },
+      {
+         "code": "Construction",
+         "title": "Construction",
+         "active": true
+      },
+      {
+         "code": "Handover",
+         "title": "Handover",
+         "active": true
+      }
+   ]
+}

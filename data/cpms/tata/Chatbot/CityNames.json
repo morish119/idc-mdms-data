@@ -1,0 +1,10 @@
+{
+ "tenantId": "cpms.tata",
+ "moduleName": "Chatbot",
+ "CityNames": [
+   {
+     "locale" :"en",
+     "cities" : ["Goa"]
+   }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+    "Portfolio": [
+        {
+            "tenantId": "cpms.prestige",
+            "moduleName": "Portfolio",
+            "Risklevel": [
+                {
+                    "code": "Pre-Construction&Approval",
+                    "title": "Pre-Construction & Approval",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Construction",
+                    "title": "Construction",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Handover",
+                    "title": "Handover",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                }
+            ]
+        },
+        {
+            "tenantId": "ods",
+            "moduleName": "Portfolio",
+            "Risklevel": [
+                {
+                    "code": "Pre-Construction&Approval",
+                    "title": "Pre-Construction & Approval",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Construction",
+                    "title": "Construction",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                },
+                {
+                    "code": "Handover",
+                    "title": "Handover",
+                    "active": true,
+                    "Risklevel": [
+                        "Low",
+                        "Medium",
+                        "High"
+                    ]
+                }
+            ]
+        }
+    ]
+}

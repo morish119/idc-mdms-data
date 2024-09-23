@@ -1,0 +1,37 @@
+{
+    
+    "tenantId":"cpms.tata",
+    "moduleName":"Portfolio",
+    "ProjectCost":[
+       {
+          "code":"All",
+          "title":"All",
+          "active":true
+          
+       },
+       {
+        "code":"Less-than-1Cr",
+        "title":"Less than 1Cr",
+        "active":true
+        
+        },
+        {
+            "code":"1-20Cr",
+            "title":"1-20Cr",
+            "active":true
+            
+        },
+        {
+            "code":"20-50Cr",
+            "title":"20-50Cr",
+            "active":true
+            
+        },
+        {
+            "code":"50-100Cr",
+            "title":"50-100Cr",
+            "active":true
+            
+        }
+    ]   
+}

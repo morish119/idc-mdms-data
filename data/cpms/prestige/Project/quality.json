@@ -1,0 +1,37 @@
+{
+    "tenantId": "cpms.prestige",
+    "moduleName": "Project",
+    "quality": [
+        {
+            "code": "NCDistribution",
+            "title": "NC Distribution",
+            "NCDistribution": [
+                "Commercial",
+                "Residential",
+                "Institutional",
+                "Infrastructure"
+            ]
+        },
+        {
+            "code": "DelayedNCs",
+            "title": " DelayedNCs",
+            "DelayedNCs": [
+                "Commercial",
+                "Residential",
+                "Institutional",
+                "Infrastructure"
+            ]
+        },
+        {
+            "code": "CostOfPoorQuality",
+            "title": " Cost Of Poor Quality",
+            "CostOfPoorQuality": [
+                "Structural",
+                "Finished",
+                "Electrical",
+                "Plumbing",
+                "Equipment"
+            ]
+        }
+    ]
+}

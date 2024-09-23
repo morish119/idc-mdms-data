@@ -1,0 +1,51 @@
+{
+	"tenantId": "cpms.prestige",
+	"moduleName": "common-masters",
+	"Department": [
+		{
+			"name": "Administration",
+			"code": "ADMIN",
+			"active": true
+		},
+		{
+			"name": "Estate",
+			"code": "ESTD",
+			"active": true
+		},
+		{
+			"name": "Engineering",
+			"code": "ENGS",
+			"active": true
+		},
+		{
+			"name": "Accounts",
+			"code": "ACCS",
+			"active": true
+		},
+		{
+			"name": "IPDC (37B)",
+			"code": "IPDC",
+			"active": true
+		},
+		{
+			"name": "Legal",
+			"code": "LGLS",
+			"active": true
+		},
+		{
+			"name": "MD's Secretariat",
+			"code": "MDSC",
+			"active": true
+		},
+		{
+			"name": "Land Acquisition Section",
+			"code": "LACS",
+			"active": true
+		},
+		{
+			"name": "Goa-IDC",
+			"code": "GIDC",
+			"active": true
+		}
+	]
+}

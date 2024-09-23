@@ -1,0 +1,17 @@
+{
+    "tenantId":"cpms.prestige",
+    "moduleName":"Project",
+    "Safety_Compliance":[
+       {
+          "code": "SeverityofSafetyObservations",
+            "title": "Severity of Safety Observations",
+            "SeverityofSafetyObservations": [
+                "High",
+                "Medium",
+                "Low"
+                
+            ]
+        }
+       
+    ]
+}

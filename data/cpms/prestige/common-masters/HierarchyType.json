@@ -1,0 +1,10 @@
+{
+  "tenantId": "cpms.prestige",
+  "moduleName": "common-masters",
+  "HierarchyType": [
+    {
+      "name": "admin",
+      "code": "ADMIN"
+    }    
+  ]
+}

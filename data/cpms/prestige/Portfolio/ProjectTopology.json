@@ -1,0 +1,31 @@
+{
+   "tenantId": "cpms.prestige",
+   "moduleName": "Portfolio",
+   "ProjectTopology": [
+      {
+         "code": "All",
+         "title": "All",
+         "active": true
+      },
+      {
+         "code": "Residential",
+         "title": "Residential",
+         "active": true
+      },
+      {
+         "code": "Commercial",
+         "title": "Commercial",
+         "active": true
+      },
+      {
+         "code": "Institutional",
+         "title": "Institutional",
+         "active": true
+      },
+      {
+         "code": "Hospitality",
+         "title": "Hospitality",
+         "active": true
+      }
+   ]
+}

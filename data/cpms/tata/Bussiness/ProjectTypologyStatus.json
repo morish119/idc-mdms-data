@@ -1,0 +1,29 @@
+{
+    "tenantId": "cpms.tata",
+    "moduleName": "Bussiness",
+    "ProjectTypologyStatus": [
+        {
+            "code": "Residential",
+            "title": "Residential",
+            "description": "Residential"
+        },
+        {
+            "code": "Commercial",
+            "title": "Commercial",
+            "description": "Commercial"
+        },
+        {
+            "code": "Institutional",
+            "title": "Institutional",
+            "description": "Institutional"
+        },
+        {
+            "code": "Hospitality",
+            "title": "Hospitality",
+            "description": "Hospitality"
+        }
+    ]
+
+
+    
+}

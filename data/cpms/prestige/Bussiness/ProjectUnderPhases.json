@@ -1,0 +1,21 @@
+{
+    "tenantId": "cpms.prestige",
+    "moduleName": "Business",
+    "ProjectTypologyStatus": [
+        {
+            "code": "PreConstruction",
+            "title": "PreConstruction",
+            "description": "PreConstruction"
+        },
+        {
+            "code": "Construction",
+            "title": "Construction",
+            "description": "Construction"
+        },
+        {
+            "code": "HandOver",
+            "title": "Handover",
+            "description": "HandOver"
+        }
+    ]
+}

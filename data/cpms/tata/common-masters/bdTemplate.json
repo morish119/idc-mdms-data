@@ -1,0 +1,10 @@
+{
+	"tenantId": "cpms.tata",
+	"moduleName": "common-masters",
+	"bdTemplate": [
+	  {
+		"template": "cpms.tata",
+		"code": "cpms.tata"
+	  }
+	]
+  }

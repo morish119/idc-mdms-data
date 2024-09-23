@@ -1,0 +1,30 @@
+{
+    "tenantId":"cpms.prestige",
+    "moduleName":"Portfolio",
+    "Zone":[
+       {
+          "code":"North",
+          "title":"North",
+          "active":true
+          
+       },
+       {
+        "code":"South",
+        "title":"South",
+        "active":true
+        
+     },
+     {
+        "code":"East",
+        "title":"East",
+        "active":true
+        
+     },
+     {
+        "code":"West",
+        "title":"West",
+        "active":true
+        
+     }
+    ]
+}   
